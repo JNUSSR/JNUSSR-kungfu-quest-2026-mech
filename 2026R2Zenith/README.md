@@ -28,6 +28,6 @@ The main structure of the R2 robot includes the following parts:
 
 ## 👥 团队分工 (Team Division)
 
-*   **双级抬升机械臂设计 (Dual-stage Lifting Robotic Arm Designer)**：曾炽强 (Zeng Zhiqiang)
+*   **双级抬升机械臂设计 (Dual-stage Lifting Robotic Arm Designer)**：曾炽强 (Zeng Chiqiang)
 *   **武器头夹持机构设计 (Weapon Head Gripping Mechanism Designer)**：杨树燊 (Yang Shushen)
 *   **其余全部机构设计与最终整合 (Design of All Other Mechanisms & Final Integration)**：张丹艺 (Zhang Danyi)
